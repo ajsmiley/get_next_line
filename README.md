@@ -1,2 +1,2 @@
 # get_next_line
-Read a line given by a file descriptor 
+This project requires that you create a function that can read data from a file descriptor without knowing its size before reading it.
